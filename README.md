@@ -1,2 +1,5 @@
 # hello-world
-Git tutorial
+Hie humans!
+
+Aklilu here love pythone.
+Programing rulles!!!.
